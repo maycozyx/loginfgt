@@ -1,4 +1,5 @@
 # Autor: mayco.zyx@gmail.com Data: 07/12/2018
+# -*- coding: utf-8 -*-
 # Use o parâmetro -d na linha de comando para ativar o modo debug
 
 import requests, time, sys
